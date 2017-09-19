@@ -3,40 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>shrralis.github.io/2017/09/hello-world/</loc>
+    <loc>https://shrralis.github.io/2017/09/hello-world/</loc>
     <lastmod>2017-09-19T16:08:01+03:00</lastmod>
   </url>
   
   <url>
-    <loc>shrralis.github.io/archives/</loc>
+    <loc>https://shrralis.github.io/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>shrralis.github.io/categories/</loc>
+    <loc>https://shrralis.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>shrralis.github.io/categories/life/</loc>
-    <lastmod>2017-09-19T16:08:01+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>shrralis.github.io/post/</loc>
+    <loc>https://shrralis.github.io/categories/life/</loc>
     <lastmod>2017-09-19T16:08:01+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>shrralis.github.io/</loc>
+    <loc>https://shrralis.github.io/post/</loc>
     <lastmod>2017-09-19T16:08:01+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>shrralis.github.io/tags/</loc>
+    <loc>https://shrralis.github.io/</loc>
+    <lastmod>2017-09-19T16:08:01+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shrralis.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
