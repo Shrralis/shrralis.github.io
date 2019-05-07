@@ -3,24 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shrralis.github.io/2017/09/hello-world/</loc>
-    <lastmod>2017-09-19T16:08:01+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shrralis.github.io/archives/</loc>
+    <loc>https://shrralis.github.io/categories/</loc>
+    <lastmod>2019-05-08T00:46:20+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shrralis.github.io/categories/</loc>
+    <loc>https://shrralis.github.io/posts/here-i-am/</loc>
+    <lastmod>2019-05-08T00:46:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shrralis.github.io/posts/</loc>
+    <lastmod>2019-05-08T00:46:20+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shrralis.github.io/</loc>
+    <lastmod>2019-05-08T00:46:20+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://shrralis.github.io/categories/life/</loc>
-    <lastmod>2017-09-19T16:08:01+03:00</lastmod>
+    <lastmod>2019-05-08T00:46:20+03:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shrralis.github.io/2017/09/hello-world/</loc>
+    <lastmod>2017-09-19T16:08:01+03:00</lastmod>
   </url>
   
   <url>
@@ -30,8 +43,7 @@
   </url>
   
   <url>
-    <loc>https://shrralis.github.io/</loc>
-    <lastmod>2017-09-19T16:08:01+03:00</lastmod>
+    <loc>https://shrralis.github.io/archives/</loc>
     <priority>0</priority>
   </url>
   

@@ -6,10 +6,19 @@
     <description>Recent content on Shrralis&#39;s personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Sep 2017 16:08:01 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2019 00:46:20 +0300</lastBuildDate>
     
 	<atom:link href="https://shrralis.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Here I Am</title>
+      <link>https://shrralis.github.io/posts/here-i-am/</link>
+      <pubDate>Wed, 08 May 2019 00:46:20 +0300</pubDate>
+      
+      <guid>https://shrralis.github.io/posts/here-i-am/</guid>
+      <description>&lt;p&gt;Here I am. Again! It&amp;rsquo;s been years&amp;hellip;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Hello World</title>
@@ -18,8 +27,7 @@
       
       <guid>https://shrralis.github.io/2017/09/hello-world/</guid>
       <description>&lt;p&gt;Привет всем!
-Познакомился с отличнейшим способом развернуть свой блог на статике.
-&lt;/p&gt;</description>
+Познакомился с отличнейшим способом развернуть свой блог на статике.&lt;/p&gt;</description>
     </item>
     
   </channel>
